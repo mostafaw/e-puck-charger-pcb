@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name e-puck-charger)(type Legacy)(uri ${KIPRJMOD}/e-puck-charger.lib)(options "")(descr ""))
+)
