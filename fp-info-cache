@@ -1,4 +1,4 @@
-16911123947087075
+16912709355677075
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75192,6 +75192,13 @@ Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
 0
 2
+2
+e-puck-charger
+BatteryHolder
+Battery holder
+https://ken.keyeuro.eu/cat/590.pdf
+0
+9
 2
 e-puck-charger
 TP4056

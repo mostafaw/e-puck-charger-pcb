@@ -1,4 +1,4 @@
-(module TP4056 (layer F.Cu) (tedit 5E4FF2F0)
+(module TP4056 (layer F.Cu) (tedit 5E67904C)
   (fp_text reference REF** (at 0.0762 13.843) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
