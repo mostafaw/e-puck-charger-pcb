@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 1714971
+# e-puck-charger_1714971
 #
-DEF 1714971 J 0 30 Y Y 1 F N
+DEF e-puck-charger_1714971 J 0 30 Y Y 1 F N
 F0 "J" -100 -250 50 H V L CNN
-F1 "1714971" -100 -350 50 H V L CNN
+F1 "e-puck-charger_1714971" -100 -350 50 H V L CNN
 F2 "e-puck-charger:Terminal_block" -100 -450 50 H I L CNN
 F3 "" 100 -550 50 H I L CNN
 DRAW
@@ -15,11 +15,11 @@ X + 2 150 50 200 L 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# Battery
+# e-puck-charger_Battery
 #
-DEF Battery BT 0 0 N N 1 F N
+DEF e-puck-charger_Battery BT 0 0 N N 1 F N
 F0 "BT" 100 100 50 H V L CNN
-F1 "Battery" 100 0 50 H V L CNN
+F1 "e-puck-charger_Battery" 100 0 50 H V L CNN
 F2 "" 0 60 50 V I C CNN
 F3 "" 0 60 50 V I C CNN
 DRAW
@@ -34,11 +34,11 @@ X - 2 0 -100 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TP4056
+# e-puck-charger_TP4056
 #
-DEF TP4056 U 0 40 Y Y 1 F N
+DEF e-puck-charger_TP4056 U 0 40 Y Y 1 F N
 F0 "U" 0 -300 50 H V C CNN
-F1 "TP4056" 0 -200 50 H V C CNN
+F1 "e-puck-charger_TP4056" 0 -200 50 H V C CNN
 F2 "e-puck-charger:TP4056" 0 -350 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

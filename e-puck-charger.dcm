@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1714971
+F https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1714971
+$ENDCMP
+#
 $CMP Battery
 D Single-cell battery
 K battery cell

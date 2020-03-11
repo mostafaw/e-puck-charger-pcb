@@ -1,4 +1,4 @@
-16912709355677075
+16915877293893075
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75194,12 +75194,19 @@ varistor SIOV
 2
 2
 e-puck-charger
-BatteryHolder
+Battery_holder
 Battery holder
 https://ken.keyeuro.eu/cat/590.pdf
 0
 9
 2
+e-puck-charger
+PWR
+
+
+0
+0
+0
 e-puck-charger
 TP4056
 
@@ -75207,3 +75214,10 @@ TP4056
 0
 4
 4
+e-puck-charger
+Terminal_block
+1714971
+Connector
+0
+2
+2
