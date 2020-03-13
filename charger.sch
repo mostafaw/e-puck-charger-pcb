@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT2
 U 1 1 5E67FD2C
 P 3150 1800
-F 0 "BT?" H 3268 1896 50  0000 L CNN
+F 0 "BT2" H 3268 1896 50  0000 L CNN
 F 1 "Battery" H 3268 1805 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 1860 50  0001 C CNN
 F 3 "~" V 3150 1860 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "~" V 3150 1860 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U2
 U 1 1 5E6806B0
 P 2250 1750
-F 0 "U?" H 2275 2065 50  0000 C CNN
+F 0 "U2" H 2275 2065 50  0000 C CNN
 F 1 "TP4056" H 2275 1974 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 1400 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 1750 50  0001 C CNN
@@ -48,10 +48,10 @@ Wire Wire Line
 Wire Wire Line
 	2950 1800 2600 1800
 $Comp
-L e-puck-charger:1714971 J?
+L e-puck-charger:1714971 J1
 U 1 1 5E693F0D
 P 850 900
-F 0 "J?" H 808 1215 50  0000 C CNN
+F 0 "J1" H 808 1215 50  0000 C CNN
 F 1 "1714971" H 808 1124 50  0000 C CNN
 F 2 "e-puck-charger:Terminal_block" H 750 450 50  0001 L CNN
 F 3 "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1714971" H 950 350 50  0001 L CNN
@@ -75,10 +75,10 @@ GND
 Wire Wire Line
 	1950 1800 1750 1800
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT3
 U 1 1 5E697F03
 P 3150 2500
-F 0 "BT?" H 3268 2596 50  0000 L CNN
+F 0 "BT3" H 3268 2596 50  0000 L CNN
 F 1 "Battery" H 3268 2505 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 2560 50  0001 C CNN
 F 3 "~" V 3150 2560 50  0001 C CNN
@@ -86,10 +86,10 @@ F 3 "~" V 3150 2560 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U3
 U 1 1 5E697F09
 P 2250 2450
-F 0 "U?" H 2275 2765 50  0000 C CNN
+F 0 "U3" H 2275 2765 50  0000 C CNN
 F 1 "TP4056" H 2275 2674 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 2100 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 2450 50  0001 C CNN
@@ -117,10 +117,10 @@ GND
 Wire Wire Line
 	1950 2500 1750 2500
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT4
 U 1 1 5E699F5E
 P 3150 3200
-F 0 "BT?" H 3268 3296 50  0000 L CNN
+F 0 "BT4" H 3268 3296 50  0000 L CNN
 F 1 "Battery" H 3268 3205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 3260 50  0001 C CNN
 F 3 "~" V 3150 3260 50  0001 C CNN
@@ -128,10 +128,10 @@ F 3 "~" V 3150 3260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U4
 U 1 1 5E699F64
 P 2250 3150
-F 0 "U?" H 2275 3465 50  0000 C CNN
+F 0 "U4" H 2275 3465 50  0000 C CNN
 F 1 "TP4056" H 2275 3374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 2800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 3150 50  0001 C CNN
@@ -159,10 +159,10 @@ GND
 Wire Wire Line
 	1950 3200 1750 3200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT5
 U 1 1 5E69A73A
 P 3150 3900
-F 0 "BT?" H 3268 3996 50  0000 L CNN
+F 0 "BT5" H 3268 3996 50  0000 L CNN
 F 1 "Battery" H 3268 3905 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 3960 50  0001 C CNN
 F 3 "~" V 3150 3960 50  0001 C CNN
@@ -170,10 +170,10 @@ F 3 "~" V 3150 3960 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U5
 U 1 1 5E69A740
 P 2250 3850
-F 0 "U?" H 2275 4165 50  0000 C CNN
+F 0 "U5" H 2275 4165 50  0000 C CNN
 F 1 "TP4056" H 2275 4074 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 3500 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 3850 50  0001 C CNN
@@ -201,10 +201,10 @@ GND
 Wire Wire Line
 	1950 3900 1750 3900
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT6
 U 1 1 5E69BA59
 P 3150 4550
-F 0 "BT?" H 3268 4646 50  0000 L CNN
+F 0 "BT6" H 3268 4646 50  0000 L CNN
 F 1 "Battery" H 3268 4555 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 4610 50  0001 C CNN
 F 3 "~" V 3150 4610 50  0001 C CNN
@@ -212,10 +212,10 @@ F 3 "~" V 3150 4610 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U6
 U 1 1 5E69BA5F
 P 2250 4500
-F 0 "U?" H 2275 4815 50  0000 C CNN
+F 0 "U6" H 2275 4815 50  0000 C CNN
 F 1 "TP4056" H 2275 4724 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 4150 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 4500 50  0001 C CNN
@@ -243,10 +243,10 @@ GND
 Wire Wire Line
 	1950 4550 1750 4550
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT7
 U 1 1 5E69C90F
 P 3150 5200
-F 0 "BT?" H 3268 5296 50  0000 L CNN
+F 0 "BT7" H 3268 5296 50  0000 L CNN
 F 1 "Battery" H 3268 5205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 5260 50  0001 C CNN
 F 3 "~" V 3150 5260 50  0001 C CNN
@@ -254,10 +254,10 @@ F 3 "~" V 3150 5260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U7
 U 1 1 5E69C915
 P 2250 5150
-F 0 "U?" H 2275 5465 50  0000 C CNN
+F 0 "U7" H 2275 5465 50  0000 C CNN
 F 1 "TP4056" H 2275 5374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 4800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 5150 50  0001 C CNN
@@ -285,10 +285,10 @@ GND
 Wire Wire Line
 	1950 5200 1750 5200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT8
 U 1 1 5E69DE9C
 P 3150 5850
-F 0 "BT?" H 3268 5946 50  0000 L CNN
+F 0 "BT8" H 3268 5946 50  0000 L CNN
 F 1 "Battery" H 3268 5855 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 5910 50  0001 C CNN
 F 3 "~" V 3150 5910 50  0001 C CNN
@@ -296,10 +296,10 @@ F 3 "~" V 3150 5910 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U8
 U 1 1 5E69DEA2
 P 2250 5800
-F 0 "U?" H 2275 6115 50  0000 C CNN
+F 0 "U8" H 2275 6115 50  0000 C CNN
 F 1 "TP4056" H 2275 6024 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 5450 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 5800 50  0001 C CNN
@@ -327,10 +327,10 @@ GND
 Wire Wire Line
 	1950 5850 1750 5850
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT9
 U 1 1 5E69F934
 P 3150 6500
-F 0 "BT?" H 3268 6596 50  0000 L CNN
+F 0 "BT9" H 3268 6596 50  0000 L CNN
 F 1 "Battery" H 3268 6505 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 6560 50  0001 C CNN
 F 3 "~" V 3150 6560 50  0001 C CNN
@@ -338,10 +338,10 @@ F 3 "~" V 3150 6560 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U9
 U 1 1 5E69F93A
 P 2250 6450
-F 0 "U?" H 2275 6765 50  0000 C CNN
+F 0 "U9" H 2275 6765 50  0000 C CNN
 F 1 "TP4056" H 2275 6674 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 6100 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 6450 50  0001 C CNN
@@ -369,10 +369,10 @@ GND
 Wire Wire Line
 	1950 6500 1750 6500
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT10
 U 1 1 5E6A12CB
 P 3150 7200
-F 0 "BT?" H 3268 7296 50  0000 L CNN
+F 0 "BT10" H 3268 7296 50  0000 L CNN
 F 1 "Battery" H 3268 7205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 7260 50  0001 C CNN
 F 3 "~" V 3150 7260 50  0001 C CNN
@@ -380,10 +380,10 @@ F 3 "~" V 3150 7260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U10
 U 1 1 5E6A12D1
 P 2250 7150
-F 0 "U?" H 2275 7465 50  0000 C CNN
+F 0 "U10" H 2275 7465 50  0000 C CNN
 F 1 "TP4056" H 2275 7374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 6800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 7150 50  0001 C CNN
@@ -411,10 +411,10 @@ GND
 Wire Wire Line
 	1950 7200 1750 7200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT1
 U 1 1 5E6A3719
 P 3150 1150
-F 0 "BT?" H 3268 1246 50  0000 L CNN
+F 0 "BT1" H 3268 1246 50  0000 L CNN
 F 1 "Battery" H 3268 1155 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 3150 1210 50  0001 C CNN
 F 3 "~" V 3150 1210 50  0001 C CNN
@@ -422,10 +422,10 @@ F 3 "~" V 3150 1210 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U1
 U 1 1 5E6A371F
 P 2250 1100
-F 0 "U?" H 2275 1415 50  0000 C CNN
+F 0 "U1" H 2275 1415 50  0000 C CNN
 F 1 "TP4056" H 2275 1324 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 2250 750 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 2250 1100 50  0001 C CNN
@@ -453,10 +453,10 @@ GND
 Wire Wire Line
 	1950 1150 1750 1150
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT12
 U 1 1 5E6C80AD
 P 5650 1800
-F 0 "BT?" H 5768 1896 50  0000 L CNN
+F 0 "BT12" H 5768 1896 50  0000 L CNN
 F 1 "Battery" H 5768 1805 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 1860 50  0001 C CNN
 F 3 "~" V 5650 1860 50  0001 C CNN
@@ -464,10 +464,10 @@ F 3 "~" V 5650 1860 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U12
 U 1 1 5E6C80B3
 P 4750 1750
-F 0 "U?" H 4775 2065 50  0000 C CNN
+F 0 "U12" H 4775 2065 50  0000 C CNN
 F 1 "TP4056" H 4775 1974 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 1400 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 1750 50  0001 C CNN
@@ -495,10 +495,10 @@ GND
 Wire Wire Line
 	4450 1800 4250 1800
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT13
 U 1 1 5E6C80C3
 P 5650 2500
-F 0 "BT?" H 5768 2596 50  0000 L CNN
+F 0 "BT13" H 5768 2596 50  0000 L CNN
 F 1 "Battery" H 5768 2505 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 2560 50  0001 C CNN
 F 3 "~" V 5650 2560 50  0001 C CNN
@@ -506,10 +506,10 @@ F 3 "~" V 5650 2560 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U13
 U 1 1 5E6C80C9
 P 4750 2450
-F 0 "U?" H 4775 2765 50  0000 C CNN
+F 0 "U13" H 4775 2765 50  0000 C CNN
 F 1 "TP4056" H 4775 2674 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 2100 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 2450 50  0001 C CNN
@@ -537,10 +537,10 @@ GND
 Wire Wire Line
 	4450 2500 4250 2500
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT14
 U 1 1 5E6C80D9
 P 5650 3200
-F 0 "BT?" H 5768 3296 50  0000 L CNN
+F 0 "BT14" H 5768 3296 50  0000 L CNN
 F 1 "Battery" H 5768 3205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 3260 50  0001 C CNN
 F 3 "~" V 5650 3260 50  0001 C CNN
@@ -548,10 +548,10 @@ F 3 "~" V 5650 3260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U14
 U 1 1 5E6C80DF
 P 4750 3150
-F 0 "U?" H 4775 3465 50  0000 C CNN
+F 0 "U14" H 4775 3465 50  0000 C CNN
 F 1 "TP4056" H 4775 3374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 2800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 3150 50  0001 C CNN
@@ -579,10 +579,10 @@ GND
 Wire Wire Line
 	4450 3200 4250 3200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT15
 U 1 1 5E6C80EF
 P 5650 3900
-F 0 "BT?" H 5768 3996 50  0000 L CNN
+F 0 "BT15" H 5768 3996 50  0000 L CNN
 F 1 "Battery" H 5768 3905 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 3960 50  0001 C CNN
 F 3 "~" V 5650 3960 50  0001 C CNN
@@ -590,10 +590,10 @@ F 3 "~" V 5650 3960 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U15
 U 1 1 5E6C80F5
 P 4750 3850
-F 0 "U?" H 4775 4165 50  0000 C CNN
+F 0 "U15" H 4775 4165 50  0000 C CNN
 F 1 "TP4056" H 4775 4074 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 3500 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 3850 50  0001 C CNN
@@ -621,10 +621,10 @@ GND
 Wire Wire Line
 	4450 3900 4250 3900
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT16
 U 1 1 5E6C8105
 P 5650 4550
-F 0 "BT?" H 5768 4646 50  0000 L CNN
+F 0 "BT16" H 5768 4646 50  0000 L CNN
 F 1 "Battery" H 5768 4555 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 4610 50  0001 C CNN
 F 3 "~" V 5650 4610 50  0001 C CNN
@@ -632,10 +632,10 @@ F 3 "~" V 5650 4610 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U16
 U 1 1 5E6C810B
 P 4750 4500
-F 0 "U?" H 4775 4815 50  0000 C CNN
+F 0 "U16" H 4775 4815 50  0000 C CNN
 F 1 "TP4056" H 4775 4724 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 4150 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 4500 50  0001 C CNN
@@ -663,10 +663,10 @@ GND
 Wire Wire Line
 	4450 4550 4250 4550
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT17
 U 1 1 5E6C811B
 P 5650 5200
-F 0 "BT?" H 5768 5296 50  0000 L CNN
+F 0 "BT17" H 5768 5296 50  0000 L CNN
 F 1 "Battery" H 5768 5205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 5260 50  0001 C CNN
 F 3 "~" V 5650 5260 50  0001 C CNN
@@ -674,10 +674,10 @@ F 3 "~" V 5650 5260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U17
 U 1 1 5E6C8121
 P 4750 5150
-F 0 "U?" H 4775 5465 50  0000 C CNN
+F 0 "U17" H 4775 5465 50  0000 C CNN
 F 1 "TP4056" H 4775 5374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 4800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 5150 50  0001 C CNN
@@ -705,10 +705,10 @@ GND
 Wire Wire Line
 	4450 5200 4250 5200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT18
 U 1 1 5E6C8131
 P 5650 5850
-F 0 "BT?" H 5768 5946 50  0000 L CNN
+F 0 "BT18" H 5768 5946 50  0000 L CNN
 F 1 "Battery" H 5768 5855 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 5910 50  0001 C CNN
 F 3 "~" V 5650 5910 50  0001 C CNN
@@ -716,10 +716,10 @@ F 3 "~" V 5650 5910 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U18
 U 1 1 5E6C8137
 P 4750 5800
-F 0 "U?" H 4775 6115 50  0000 C CNN
+F 0 "U18" H 4775 6115 50  0000 C CNN
 F 1 "TP4056" H 4775 6024 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 5450 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 5800 50  0001 C CNN
@@ -747,10 +747,10 @@ GND
 Wire Wire Line
 	4450 5850 4250 5850
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT19
 U 1 1 5E6C8147
 P 5650 6500
-F 0 "BT?" H 5768 6596 50  0000 L CNN
+F 0 "BT19" H 5768 6596 50  0000 L CNN
 F 1 "Battery" H 5768 6505 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 6560 50  0001 C CNN
 F 3 "~" V 5650 6560 50  0001 C CNN
@@ -758,10 +758,10 @@ F 3 "~" V 5650 6560 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U19
 U 1 1 5E6C814D
 P 4750 6450
-F 0 "U?" H 4775 6765 50  0000 C CNN
+F 0 "U19" H 4775 6765 50  0000 C CNN
 F 1 "TP4056" H 4775 6674 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 6100 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 6450 50  0001 C CNN
@@ -789,10 +789,10 @@ GND
 Wire Wire Line
 	4450 6500 4250 6500
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT20
 U 1 1 5E6C815D
 P 5650 7200
-F 0 "BT?" H 5768 7296 50  0000 L CNN
+F 0 "BT20" H 5768 7296 50  0000 L CNN
 F 1 "Battery" H 5768 7205 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 7260 50  0001 C CNN
 F 3 "~" V 5650 7260 50  0001 C CNN
@@ -800,10 +800,10 @@ F 3 "~" V 5650 7260 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U20
 U 1 1 5E6C8163
 P 4750 7150
-F 0 "U?" H 4775 7465 50  0000 C CNN
+F 0 "U20" H 4775 7465 50  0000 C CNN
 F 1 "TP4056" H 4775 7374 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 6800 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 7150 50  0001 C CNN
@@ -831,10 +831,10 @@ GND
 Wire Wire Line
 	4450 7200 4250 7200
 $Comp
-L e-puck-charger:Battery BT?
+L e-puck-charger:Battery BT11
 U 1 1 5E6C8173
 P 5650 1150
-F 0 "BT?" H 5768 1246 50  0000 L CNN
+F 0 "BT11" H 5768 1246 50  0000 L CNN
 F 1 "Battery" H 5768 1155 50  0000 L CNN
 F 2 "e-puck-charger:Battery_holder" V 5650 1210 50  0001 C CNN
 F 3 "~" V 5650 1210 50  0001 C CNN
@@ -842,10 +842,10 @@ F 3 "~" V 5650 1210 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L e-puck-charger:TP4056 U?
+L e-puck-charger:TP4056 U11
 U 1 1 5E6C8179
 P 4750 1100
-F 0 "U?" H 4775 1415 50  0000 C CNN
+F 0 "U11" H 4775 1415 50  0000 C CNN
 F 1 "TP4056" H 4775 1324 50  0000 C CNN
 F 2 "e-puck-charger:TP4056" H 4750 750 50  0001 C CNN
 F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4750 1100 50  0001 C CNN
