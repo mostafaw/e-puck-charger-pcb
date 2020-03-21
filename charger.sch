@@ -1092,4 +1092,44 @@ F 3 "~" H 3400 7100 50  0001 C CNN
 	1    3400 7100
 	1    0    0    -1  
 $EndComp
+Text Label 2300 1100 0    50   ~ 0
+GND
+Text Label 2300 1750 0    50   ~ 0
+GND
+Text Label 2300 2450 0    50   ~ 0
+GND
+Text Label 2300 3150 0    50   ~ 0
+GND
+Text Label 2300 3850 0    50   ~ 0
+GND
+Text Label 2300 4500 0    50   ~ 0
+GND
+Text Label 2300 5150 0    50   ~ 0
+GND
+Text Label 2300 5800 0    50   ~ 0
+GND
+Text Label 2300 6450 0    50   ~ 0
+GND
+Text Label 2300 7150 0    50   ~ 0
+GND
+Text Label 5200 7200 0    50   ~ 0
+GND
+Text Label 5200 6500 0    50   ~ 0
+GND
+Text Label 5200 5850 0    50   ~ 0
+GND
+Text Label 5200 5200 0    50   ~ 0
+GND
+Text Label 5200 4550 0    50   ~ 0
+GND
+Text Label 5200 3900 0    50   ~ 0
+GND
+Text Label 5200 3200 0    50   ~ 0
+GND
+Text Label 5200 2500 0    50   ~ 0
+GND
+Text Label 5200 1800 0    50   ~ 0
+GND
+Text Label 5200 1150 0    50   ~ 0
+GND
 $EndSCHEMATC

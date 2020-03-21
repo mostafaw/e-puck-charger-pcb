@@ -1,6 +1,21 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Mechanical_MountingHole
+#
+DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
 # e-puck-charger_1714971
 #
 DEF e-puck-charger_1714971 J 0 30 Y Y 1 F N
@@ -20,7 +35,7 @@ ENDDEF
 DEF e-puck-charger_Battery BT 0 0 N N 1 F N
 F0 "BT" 100 100 50 H V L CNN
 F1 "e-puck-charger_Battery" 100 0 50 H V L CNN
-F2 "" 0 60 50 V I C CNN
+F2 "e-puck-charger:Battery_holder" 400 150 50 V I C CNN
 F3 "" 0 60 50 V I C CNN
 DRAW
 S -90 70 90 60 0 1 0 F
